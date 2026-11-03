@@ -1,7 +1,7 @@
 # AI_Assignment
 AI Assignment due Nov 2
 
-This notebook is analyzing fraudulent vs nonfraudulent card transactions. AI was used to assist in graphical representations when looking at different variables in the data set. This is done using both univariate and bivariate visualizations. 
+This notebook is analyzing fraudulent vs nonfraudulent card transactions. AI was used to assist in producing code and graphical representations when looking at different variables in the data set. This is done using both univariate and bivariate visualizations. 
 
 
   In the process of completing this notebook, it was made clear that when using AI, you can cut your work time in half if not even more than that. If your prompt for the AI system was clear enough on what you wanted in the output, there wasn't much critiquing you had to give to get the final desired response. I also believe you can learn from the AI. As long as you are using it responsibly, it is possible to learn other ways to code the same thing. 
